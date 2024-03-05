@@ -4,7 +4,8 @@
 
  - The assignment problem is based on murty's algorithm. 
 
- - The code has been written in python 3. 
+ - The library has been coded in Python3.
+ - 
 
 
 
