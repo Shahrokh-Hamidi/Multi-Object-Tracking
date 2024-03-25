@@ -6,8 +6,7 @@
 
  - The library has been coded in Python3.
 
- - Initial upload: January 2024
- - 
+- 
 
 
 
